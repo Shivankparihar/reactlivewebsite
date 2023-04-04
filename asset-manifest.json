@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.e6131800.css",
+    "main.js": "/reactlivewebsite/static/js/main.95853f24.js",
+    "static/js/787.492f1504.chunk.js": "/reactlivewebsite/static/js/787.492f1504.chunk.js",
+    "static/media/ertiga.png": "/reactlivewebsite/static/media/ertiga.fd52707371a1934cfc59.png",
+    "static/media/scorpio.jpg": "/reactlivewebsite/static/media/scorpio.b5025bd609f2c6c12c3f.jpg",
+    "static/media/img2.jpg": "/reactlivewebsite/static/media/img2.9d7f72489923621ab3c6.jpg",
+    "static/media/img1.jpg": "/reactlivewebsite/static/media/img1.476787228e17173d715a.jpg",
+    "static/media/nexon.jpg": "/reactlivewebsite/static/media/nexon.f076c05709e612173ff6.jpg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.e6131800.css.map": "/reactlivewebsite/static/css/main.e6131800.css.map",
+    "main.95853f24.js.map": "/reactlivewebsite/static/js/main.95853f24.js.map",
+    "787.492f1504.chunk.js.map": "/reactlivewebsite/static/js/787.492f1504.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6131800.css",
+    "static/js/main.95853f24.js"
+  ]
+}
